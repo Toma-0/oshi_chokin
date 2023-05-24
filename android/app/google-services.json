@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "355893424846",
+    "project_id": "oshi-chokin",
+    "storage_bucket": "oshi-chokin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355893424846:android:926622d57bc64e9424969f",
+        "android_client_info": {
+          "package_name": "com.example.oshi_chokin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355893424846-rd4a76tiq42mssob79o1nf9ieoadpbfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXlIQufrTU7mxHI914_Ta-lepqvVY5ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355893424846-rd4a76tiq42mssob79o1nf9ieoadpbfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355893424846-i4et2fp0gus3lnjl5rb9damb44pahp1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oshiChokin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355893424846:android:238a804ac4ab92a024969f",
+        "android_client_info": {
+          "package_name": "com.example.oshichokin_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355893424846-rd4a76tiq42mssob79o1nf9ieoadpbfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXlIQufrTU7mxHI914_Ta-lepqvVY5ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355893424846-rd4a76tiq42mssob79o1nf9ieoadpbfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355893424846-i4et2fp0gus3lnjl5rb9damb44pahp1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oshiChokin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
