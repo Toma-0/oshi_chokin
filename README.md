@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # oshi_chokin
 =======
+=======
+>>>>>>> 6c6938c (最新版を他のリポジトリから切り離し)
 # oshi_chokin
 
 A new Flutter project.
@@ -17,4 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+>>>>>>> 6c6938c (最新版を他のリポジトリから切り離し)
+=======
 >>>>>>> 6c6938c (最新版を他のリポジトリから切り離し)
