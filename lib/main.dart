@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'config/size_config.dart';
 import 'package:firebase_core/firebase_core.dart';
-import '../firebase_options.dart';
+import 'package:oshi_chokin/token/firebase_options.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 import 'page/home.dart';
