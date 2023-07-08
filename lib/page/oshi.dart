@@ -264,7 +264,7 @@ class _Oshi extends ConsumerState<Oshi> with SingleTickerProviderStateMixin {
                             ImageSet().upload(oshiList[index], user_id, ref);
                           },
                           icon: Icon(Icons.image,
-                              size: 115, fill: 1.0, color: Oshicolor)),
+                              size: 115, color: Oshicolor)),
                     )
                     //oshi_button(),
                   ],
